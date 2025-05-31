@@ -25,8 +25,8 @@ pip install -r requirements.txt
 数据与权重准备
 - 下载Widerface的训练集和测试集的图像 [WIDER FACE](http://shuoyang1213.me/WIDERFACE/).
 - 获得训练集的标注 (https://github.com/daooshee/HLA-Face-Code/blob/main/train_code/dataset/wider_face_train.txt) 和验证集的标注(https://github.com/daooshee/HLA-Face-Code/blob/main/train_code/dataset/wider_face_val.txt).
--下载预训练权重about (https://drive.google.com/file/d/1MaRK-VZmjBvkm79E1G77vFccb_9GWrfG/view?usp=drive_link) of Retinex Decomposition Net.
--准备基础网络的预训练权重(https://drive.google.com/file/d/1whV71K42YYduOPjTTljBL8CB-Qs4Np6U/view?usp=drive_link) .
+- 下载预训练权重about (https://drive.google.com/file/d/1MaRK-VZmjBvkm79E1G77vFccb_9GWrfG/view?usp=drive_link) of Retinex Decomposition Net.
+- 准备基础网络的预训练权重(https://drive.google.com/file/d/1whV71K42YYduOPjTTljBL8CB-Qs4Np6U/view?usp=drive_link) .
 
 请将文件夹按下面的方式进行组织：
 
