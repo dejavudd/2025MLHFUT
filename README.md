@@ -1,7 +1,7 @@
 # 2025MLHFUT
 2025机器学习大作业合肥工业大学（复现顶会论文）
 
-本次大作业我们所复现的是cvpr 2024的文章DAI-Net(https://github.com/ZPDu/DAI-Net)，以及后续我们加入了IAT论文(https://github.com/cuiziteng/Illumination-Adaptive-Transformer)，将这两篇论文的模型进行了融合优化。
+本次大作业我们所复现的是cvpr 2024的文章DAI-Net(https://github.com/ZPDu/DAI-Net) ，以及后续我们加入了IAT论文(https://github.com/cuiziteng/Illumination-Adaptive-Transformer) ，将这两篇论文的模型进行了融合优化。
 
 # INSTALLATION
 
